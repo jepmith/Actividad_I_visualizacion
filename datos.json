@@ -1,0 +1,15 @@
+{ 
+"nodes": [ 
+{ "id": "India", "group": 1},
+{ "id": "China", "group": 1},
+{ "id": "Estados Unidos", "group": 1},
+{ "id": "Indonesia", "group": 1},
+{ "id": "Paquitan", "group": 2},
+{ "id": "Nigeria", "group": 2},
+{ "id": "Brasil", "group": 3},
+{ "id": "Bangladesh", "group": 3},
+{ "id": "Rusia", "group": 4},
+{ "id": "Mexico", "group": 4}
+
+]
+}
