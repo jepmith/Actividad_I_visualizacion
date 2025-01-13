@@ -1,62 +1,62 @@
 [
     {
-       "pais":"India",
+       "partido":"India",
        "mediaAutoubicacion":10,
-       "habitantes":10,
+       "votantes":10,
        "nsnc":302
     },
     {
-        "pais":"China",
+        "partido":"China",
         "mediaAutoubicacion":9,
-        "habitantes":9,
+        "votantes":9,
         "nsnc":302
      },
      {
-        "pais":"Estados unidos",
+        "partido":"Estados unidos",
         "mediaAutoubicacion":8,
-        "habitantes":8,
+        "votantes":8,
         "nsnc":302
      },
      {
-        "pais":"Indonesia",
+        "partido":"Indonesia",
         "mediaAutoubicacion":7,
-        "habitantes":7,
+        "votantes":7,
         "nsnc":302
      },
      {
-        "pais":"Paquiastan",
+        "partido":"Paquiastan",
         "mediaAutoubicacion":6,
-        "habitantes":6,
+        "votantes":6,
         "nsnc":302
      },
      {
-        "pais":"Nigeria",
+        "partido":"Nigeria",
         "mediaAutoubicacion":5,
-        "habitantes":5,
+        "votantes":5,
         "nsnc":302
      },
      {
-        "pais":"Brasil",
+        "partido":"Brasil",
         "mediaAutoubicacion":4,
-        "habitantes":4,
+        "votantes":4,
         "nsnc":302
      },
      {
-        "pais":"Bangladesh",
+        "partido":"Bangladesh",
         "mediaAutoubicacion":3,
-        "habitantes":3,
+        "votantes":3,
         "nsnc":302
      },
      {
-        "pais":"Rusia",
+        "partido":"Rusia",
         "mediaAutoubicacion":2,
-        "habitantes":2,
+        "votantes":2,
         "nsnc":302
      },
      {
-        "pais":"Mexico",
+        "partido":"Mexico",
         "mediaAutoubicacion":1,
-        "habitantes":1,
+        "votantes":1,
         "nsnc":302
      }
 ]
