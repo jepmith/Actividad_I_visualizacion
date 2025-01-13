@@ -1,62 +1,52 @@
 [
     {
        "pais":"India",
-       "mediaAutoubicacion":10,
        "habitantes":10,
-       "ranking":302
+       "ranking":1
     },
     {
         "pais":"China",
-        "mediaAutoubicacion":9,
         "habitantes":9,
-        "ranking":302
+        "ranking":2
      },
      {
         "pais":"Estados unidos",
-        "mediaAutoubicacion":8,
         "habitantes":8,
-        "ranking":302
+        "ranking":3
      },
      {
         "pais":"Indonesia",
-        "mediaAutoubicacion":7,
         "habitantes":7,
-        "ranking":302
+        "ranking":4
      },
      {
         "pais":"Paquiastan",
-        "mediaAutoubicacion":6,
         "habitantes":6,
-        "ranking":302
+        "ranking":5
      },
      {
         "pais":"Nigeria",
-        "mediaAutoubicacion":5,
         "habitantes":5,
-        "ranking":302
+        "ranking":6
      },
      {
         "pais":"Brasil",
-        "mediaAutoubicacion":4,
-        "habitantes":4,
-        "ranking":302
+         "habitantes":4,
+        "ranking":7
      },
      {
         "pais":"Bangladesh",
-        "mediaAutoubicacion":3,
         "habitantes":3,
-        "ranking":302
+        "ranking":8
      },
      {
         "pais":"Rusia",
-        "mediaAutoubicacion":2,
         "habitantes":2,
-        "ranking":302
+        "ranking":9
      },
      {
         "pais":"Mexico",
-        "mediaAutoubicacion":1,
         "habitantes":1,
-        "ranking":302
+        "ranking":10
      }
 ]
